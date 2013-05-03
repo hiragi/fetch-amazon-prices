@@ -1,9 +1,0 @@
-* Fetch-Amazon-Prices 
-
-** Usage
-
-** Dependencies
-
-** Installation
-
-
